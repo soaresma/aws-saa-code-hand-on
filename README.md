@@ -29,6 +29,5 @@ What you will learn:
 - You will learn – how to build repeatably and securely with AWS CloudFormation, set up a PaaS with AWS Elastic Beanstalk, configure Amazon S3 bucket policies and share data between multiple AWS accounts
 - You will learn – how to use application integration services including AWS Step Functions, Amazon MQ, SNS, SWF and SQS
 
-Learn more and [enroll in this course](https://digitalcloud.training/aws-certified-solutions-architect-associate/) now to get your AWS Certified Solutions Architect Associate certification in 50 days or less
 =======
 # aws-saa-code-hand-on
