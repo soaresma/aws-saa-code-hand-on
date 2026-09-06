@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS Certified Solutions Architect Associate SAA-C03 Course Code
 *By [Digital Cloud Training](https://digitalcloud.training/) - Course Author Neal Davis*
 
@@ -31,3 +32,6 @@ What you will learn:
 - You will learn – how to use application integration services including AWS Step Functions, Amazon MQ, SNS, SWF and SQS
 
 Learn more and [enroll in this course](https://digitalcloud.training/aws-certified-solutions-architect-associate/) now to get your AWS Certified Solutions Architect Associate certification in 50 days or less
+=======
+# aws-saa-code-hand-on
+>>>>>>> origin/main
