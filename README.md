@@ -1,5 +1,4 @@
 # AWS Certified Solutions Architect Associate SAA-C03 Course Code
-*By [Digital Cloud Training](https://digitalcloud.training/) - Course Author Neal Davis*
 
 ## How to Use the Course Code
 
